@@ -29,7 +29,7 @@ Run the following to launch it:
 ```
 java -jar \
     target/eipa-ingestion-app-0.0.1-SNAPSHOT.jar \
-    --application.integration.sink.url='https://httpbin.org/post1'
+    --application.integration.sink.url='https://httpbin.org/post'
 ```
 
 You should see a bunch of generated logs in your terminal window.
