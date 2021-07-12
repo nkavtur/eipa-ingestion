@@ -35,7 +35,7 @@ java -jar \
 You should see a bunch of generated logs in your terminal window.
 All of this means the app started processing data.
 
-### Application Internals 
+## Application Internals 
 
 com.tomtom.ingestion.pipeline.DataPipeline class describes our simple flow of processing dynamic data events:
 
